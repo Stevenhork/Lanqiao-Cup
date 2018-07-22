@@ -1,12 +1,10 @@
-package À¶ÇÅ±­;
-
 import java.math.BigDecimal;
 import java.util.Scanner;
 
 public class yuan {
 
 	public static void main(String[] args) {
-		// TODO ×Ô¶¯Éú³ÉµÄ·½·¨´æ¸ù
+		// TODO è‡ªåŠ¨ç”Ÿæˆçš„æ–¹æ³•å­˜æ ¹
 		new yuan().run();
 
 	}
